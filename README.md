@@ -101,7 +101,7 @@
   <a href="https://www.linkedin.com/in/tutu-mtetwa">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tutumtetwa.dev">
+  <a href="https://tutumtetwa.com">
     <img src="https://img.shields.io/badge/-Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:tututmetwa@gmail.com">
