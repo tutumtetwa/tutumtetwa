@@ -1,84 +1,76 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Tutu+%F0%9F%91%8B;Engineer+%7C+Builder+%7C+Dreamer;Let%E2%80%99s+Build+Something+Extraordinary!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Tutu+%F0%9F%91%8B;Engineer+%7C+Problem+Solver+%7C+Creator;I+design+code+that+works+and+wows!"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=flat-square&color=00ffcc&label=👀+Profile+Views" alt="Profile views"/>
 </p>
 
 ---
 
-### 🌟 Who I Am
-
-🎓 A motivated **Software Engineering student** driven to innovate, problem-solve, and ship clean, scalable code. I'm currently open to **Summer 2025 SWE internships**. 
-
-⚡️ What sets me apart? My mix of design eye, backend rigor, and an obsession with meaningful user experiences.
-
-🛠 Whether it’s debugging, collaborating on Figma-to-code pipelines, or automating processes, I stay **curious, creative, and consistent**.
-
----
-
-### 🚀 Tech Toolbox
-
-#### 💬 Languages
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 Performance at a Glance
+<h2 align="center">🧬 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutumtetwa&show_icons=true&theme=transparent&rank_icon=github" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutumtetwa&layout=compact&theme=transparent" width="47%"/>
+  🧠 <b>Full-stack engineer in the making</b> | Passionate about intuitive UX, efficient APIs, and creative automation.
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tutumtetwa&theme=tokyonight_duo&border_radius=8" width="95%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tutumtetwa&theme=onestar&no-frame=true&title=MultiLanguage,Commits,Stars,PullRequest,Repositories&margin-w=10" width="100%" />
+  🌍 From real-time systems to sleek front-ends, I build software that **matters**.
 </p>
 
 ---
 
-### 🧠 Selected Projects
+<h2 align="center">🛠 Tech Stack I Love Using</h2>
 
-- 🧠 [**SmartNotes**](https://github.com/tutumtetwa/SmartNotes) — AI-assisted markdown note app built with Flask, NLP & love.
-- 🌐 [**DevConnect**](https://github.com/tutumtetwa/DevConnect) — Developer social network using MERN stack.
-- 🎥 [**AlgoVisualizer**](https://github.com/tutumtetwa/AlgoVisualizer) — Bring algorithms to life with C++ and web animations.
+<table align="center">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=python,cpp,js,ts" height="30"/></td>
+<td><img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,linux" height="30"/></td>
+</tr>
+</table>
 
 ---
 
-### 📫 Let's Connect
+<h2 align="center">📈 My Dev Journey</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tutumtetwa&show_icons=true&theme=midnight-purple&rank_icon=github" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutumtetwa&layout=compact&theme=midnight-purple" width="47%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tutumtetwa&theme=gruvbox_duo&border_radius=10" width="95%"/>
+</p>
+
+---
+
+<h2 align="center">🚀 Projects I'm Proud Of</h2>
+
+- 🧠 [SmartNotes](https://github.com/tutumtetwa/SmartNotes) — AI-assisted markdown note-taking tool powered by Flask & NLP.
+- 🌐 [DevConnect](https://github.com/tutumtetwa/DevConnect) — MERN-stack social hub for devs to collab & share.
+- 🔍 [AlgoVisualizer](https://github.com/tutumtetwa/AlgoVisualizer) — Animated algorithm visualizations coded in C++ & JavaScript.
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tutu-mtetwa">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Let's+Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tututmetwa@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Say+Hi!-brightgreen?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🎧 Now Playing
+<h2 align="center">🎧 Now Playing</h2>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="90%" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="90%" />
 </p>
 
 <details>
-  <summary>🎵 Not playing anything? Here’s what’s always on my rotation:</summary>
+  <summary>🔥 Not playing now? Here's who's always on loop:</summary>
   <ul>
     <li>🎤 <strong>Rod Wave</strong></li>
     <p align="center">
@@ -101,23 +93,22 @@
 
 ---
 
-### 💡 What I'm Up To
+<h2 align="center">🧭 Currently Navigating</h2>
 
-- 🌱 Learning advanced system design & TypeScript
-- 🧪 Exploring AI integrations & DevOps practices
-- 🛠 Building tools that actually help people
-- 🎯 Seeking a **Summer 2025 SWE internship** to grow fast and contribute hard
+- 🌱 Mastering scalable architectures & cloud-native apps
+- 🧪 Building tools with OpenAI + LangChain
+- 💼 Prepping for **Summer 2025 SWE** roles
 
 ---
 
-### ✨ A Few More Things...
+<h2 align="center">🧃 Just a Few More Things</h2>
 
-- 💡 *I think in systems, sketch in wireframes, and code with rhythm.*
-- 🔍 I’m fascinated by performance bottlenecks, developer experience, and shipping MVPs fast.
-- 🔥 My motto: _"Be the engineer you’d want on your team."_
+- 🔭 I turn late-night ideas into polished products.
+- 🎨 I treat code like art, with functionality as the frame.
+- 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xxNm0xa2oyOTFpYzRlaTN4MXZ0MXRrYnNkZjR6ZzlvMGEyMTBpdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XIqCQx02E1U9W/giphy.gif" width="320" />
 </p>
 
-<p align="center"><i>Thanks for visiting! If you’re reading this, let’s build something meaningful together 🚀</i></p>
+<p align="center"><i>Appreciate you stopping by — let’s turn code into impact. 🚀</i></p>
