@@ -71,18 +71,25 @@
 <details>
   <summary>🎵 Not playing anything? Here's my top artists:</summary>
   <ul>
-    <li>🎤 <strong>Rod Wave</strong></li>
-   <li>🥷🏾 <em>Rodarius Green</em></li>
+  <li>🎤 <strong>Rod Wave</strong></li>
+  <p align="center">
+    <img src="https://i0.wp.com/www.stlamerican.com/wp-content/uploads/2024/11/IH8A7738-scaled.jpg?fit=1200%2C800&ssl=1" width="250" />
+  </p>
+  <li>🥷🏾 <em>Rodarius Green</em></li>
+  <p align="center">
+    <img src="https://media.pitchfork.com/photos/5dc5edf6ddb62f0008c2dd17/1:1/w_450%2Cc_limit/ghettogospel.jpg" width="250" />
+  </p>
   <li>🎙 <em>Rodarius Marcel Green</em></li>
+  <p align="center">
+    <img src="https://www.thehypemagazine.com/wp-content/uploads/2021/08/unnamed-6-scaled-e1630440028964.jpg" width="250" />
+  </p>
   <li>🎧 <em>Nuni</em></li>
-  </ul>
-   <p align="center">
-    <img src="https://i0.wp.com/www.stlamerican.com/wp-content/uploads/2024/11/IH8A7738-scaled.jpg?fit=1200%2C800&ssl=1" width="100" />
-    <img src="https://media.pitchfork.com/photos/5dc5edf6ddb62f0008c2dd17/1:1/w_450%2Cc_limit/ghettogospel.jpg" width="100" />
-    <img src="https://www.thehypemagazine.com/wp-content/uploads/2021/08/unnamed-6-scaled-e1630440028964.jpg" width="100" />
-    <img src="https://cdn-images.dzcdn.net/images/cover/0d4ae0aad490a5722e2cdca72f79929c/1900x1900-000000-80-0-0.jpg" width="100" />
-</p>
+  <p align="center">
+    <img src="https://cdn-images.dzcdn.net/images/cover/0d4ae0aad490a5722e2cdca72f79929c/1900x1900-000000-80-0-0.jpg" width="250" />
+  </p>
+</ul>
 </details>
+
 
 
 ### 💡 Currently
