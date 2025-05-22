@@ -99,11 +99,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tutu-mtetwa">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://tutumtetwa.dev" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Visit-My%20Website-242424?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
-</a>
+  <a href="https://tutumtetwa.dev">
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="mailto:tututmetwa@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
