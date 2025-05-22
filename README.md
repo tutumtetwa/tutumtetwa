@@ -145,7 +145,7 @@
 
 - 🌱 Mastering scalable architectures & cloud-native apps
 - 🧪 Building tools with OpenAI + LangChain
-- 💼 Prepping for **Summer 2025 SWE** roles
+- 💼 Prepping for **Summer 2026 SWE** roles
 
 ---
 
