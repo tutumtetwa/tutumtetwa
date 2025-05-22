@@ -22,16 +22,56 @@
 <h2 align="center">🛠 Tech Stack I Love Using</h2>
 
 <h4 align="center">💬 Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,js,ts&theme=dark" height="60" /><br/>
-  Python · C · C++ · Java · Bash · JavaScript · TypeScript
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="50" /><br/><sub>Python</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" width="50" /><br/><sub>C</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" /><br/><sub>C++</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="50" /><br/><sub>Java</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=bash" width="50" /><br/><sub>Bash</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="50" /><br/><sub>JavaScript</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts" width="50" /><br/><sub>TypeScript</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h4 align="center">⚙️ Frameworks & Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,linux&theme=dark" height="60" /><br/>
-  React · Node.js · PostgreSQL · Git · Linux
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="50" /><br/><sub>React</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" /><br/><sub>Node.js</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" /><br/><sub>PostgreSQL</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="50" /><br/><sub>Git</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" width="50" /><br/><sub>Linux</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -116,7 +156,7 @@
 - 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFuMTZyZGxkOWlxdzI5bzM4OXlxa3lyZ3NmcXV2d25uMGRmeXJndCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNkYmV5dXYzMGJvNmN3ZDVuaXB5Z25jZm9sd3R3a3h5dnVpbHBubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" />
 </p>
 
 <p align="center"><i>Appreciate you stopping by — let’s turn code into impact. 🚀</i></p>
