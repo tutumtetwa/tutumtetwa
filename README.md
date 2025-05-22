@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ![visitors](https://komarev.com/ghpvc/?username=tututmetwa&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=tutumtetwa&color=blue" alt="visitors"/>
 </p>
 
 ---
@@ -34,21 +34,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tututmetwa&show_icons=true&theme=radical" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tututmetwa&layout=compact&theme=radical" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tutumtetwa&show_icons=true&theme=radical" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutumtetwa&layout=compact&theme=radical" width="49.5%" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=tututmetwa&theme=highcontrast&border_radius=5" width="99%" />
+  <img src="https://streak-stats.demolab.com?user=tutumtetwa&theme=highcontrast&border_radius=5" width="99%" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=tututmetwa&theme=gruvbox&no-frame=true&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tutumtetwa&theme=gruvbox&no-frame=true&margin-w=15" width="100%" />
 </p>
 
 ---
 
 ### 🧰 Featured Projects
 
-- 🧠 [SmartNotes](https://github.com/tututmetwa/SmartNotes) — Markdown + AI note app powered by Flask & NLP
-- 🌐 [DevConnect](https://github.com/tututmetwa/DevConnect) — Social network for developers (React + Node.js)
-- 🎥 [AlgoVisualizer](https://github.com/tututmetwa/AlgoVisualizer) — C++ data structure/algorithm visualizations
+- 🧠 [SmartNotes](https://github.com/tutumtetwa/SmartNotes) — Markdown + AI note app powered by Flask & NLP
+- 🌐 [DevConnect](https://github.com/tutumtetwa/DevConnect) — Social network for developers (React + Node.js)
+- 🎥 [AlgoVisualizer](https://github.com/tutumtetwa/AlgoVisualizer) — C++ data structure/algorithm visualizations
 
 ---
 
@@ -64,7 +64,7 @@
 > *Live Spotify track you're listening to:*
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="90%" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="90%" />
 </p>
 
 _👉 Replace `your_spotify_user_id` with your actual Spotify ID after deploying [this](https://github.com/kittinan/spotify-github-profile) widget._
