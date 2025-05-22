@@ -64,7 +64,7 @@
 > *Live Spotify track you're listening to:*
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="90%" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="90%" />
 </p>
 
 _👉 Replace `your_spotify_user_id` with your actual Spotify ID after deploying [this](https://github.com/kittinan/spotify-github-profile) widget._
