@@ -1,65 +1,94 @@
-### Hi there, I'm Tutu! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Tutu!;Aspiring+Software+Engineer;Summer+2025+Internship+Ready!"/>
+</p>
 
-I'm a passionate **Software Engineering student** gearing up for a **Summer 2025 SWE internship**. I love turning ideas into real, working software — clean code, smooth UX, and solid backend logic are my jam. 
+<p align="center">
+  ![visitors](https://komarev.com/ghpvc/?username=tututmetwa&color=blue)
+</p>
+
+---
+
+### 🧠 About Me
+
+💻 I'm a **Software Engineering student** who loves turning ideas into reality through code. I'm currently seeking a **Summer 2025 SWE internship**, with a passion for clean architecture, open-source collaboration, and building cool stuff.
 
 ---
 
 ### 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+#### 💬 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Tutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tutu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tutu&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tututmetwa&show_icons=true&theme=radical" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tututmetwa&layout=compact&theme=radical" width="49.5%" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=tututmetwa&theme=highcontrast&border_radius=5" width="99%" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=tututmetwa&theme=gruvbox&no-frame=true&margin-w=15" width="100%" />
+</p>
 
 ---
 
-### 🔥 Streaks & Trophies
+### 🧰 Featured Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tutu&theme=tokyonight)](https://git.io/streak-stats)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tutu&theme=tokyonight)
-
----
-
-### 💼 Projects Worth Checking Out
-
-- 🧠 **SmartNotes** – A markdown-based note-taking app with AI-powered suggestions (Python + Flask)
-- 🌐 **DevConnect** – A developer social network for collabs (React + Node.js)
-- 📊 **AlgoVisualizer** – Algorithms brought to life with interactive visuals (C++ + HTML Canvas)
+- 🧠 [SmartNotes](https://github.com/tututmetwa/SmartNotes) — Markdown + AI note app powered by Flask & NLP
+- 🌐 [DevConnect](https://github.com/tututmetwa/DevConnect) — Social network for developers (React + Node.js)
+- 🎥 [AlgoVisualizer](https://github.com/tututmetwa/AlgoVisualizer) — C++ data structure/algorithm visualizations
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tutu-mtetwa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tututmetwa@gmail.com)
 
 ---
 
-### 💬 Fun Facts
+### 🎧 Now Playing
 
-- 🕹 I build side projects for fun (and occasionally to procrastinate)
-- 🎧 I code best with lo-fi beats in the background
-- ✨ Motto: "Make it work. Make it right. Make it fast."
+> *Live Spotify track you're listening to:*
 
----
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="90%" />
+</p>
 
-### 📍 Currently...
-
-- 🎯 Learning: System Design & TypeScript
-- 💡 Open to: Summer 2025 SWE internships
-- 🌱 Always leveling up
+_👉 Replace `your_spotify_user_id` with your actual Spotify ID after deploying [this](https://github.com/kittinan/spotify-github-profile) widget._
 
 ---
 
-_Thanks for stopping by! Let's build cool stuff together 🚀_
+### 💡 Currently
+
+- 📚 Learning: TypeScript, System Design
+- 🧠 Exploring: Open source & AI integrations
+- 💼 Applying: Summer 2025 SWE internships
+
+---
+
+### ✨ Fun Facts
+
+- 🕹 I prototype ideas like they're games
+- 🎧 I debug best with lo-fi & R&B playing
+- 🚀 Motto: "Code it. Ship it. Own it."
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+_Thanks for visiting! If you're a recruiter, collaborator, or just curious, feel free to connect — I'm always down to build something amazing._
