@@ -63,13 +63,20 @@
 
 > *Live Spotify track you're listening to:*
 
+
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="90%" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="90%" />
 </p>
 
-_👉 Replace `your_spotify_user_id` with your actual Spotify ID after deploying [this](https://github.com/kittinan/spotify-github-profile) widget._
-
----
+<details>
+  <summary>🎵 Not playing music right now? Here's what I vibe to most:</summary>
+  <ul>
+    <li>🎧 <strong>Brent Faiyaz</strong> — smooth R&B flows</li>
+    <li>🎙 <strong>J. Cole</strong> — lyrical storytelling</li>
+    <li>💫 <strong>SZA</strong> — soul meets spacey vibes</li>
+    <li>🌌 <strong>Lo-fi Chill Mix</strong> — perfect for late-night debugging</li>
+  </ul>
+</details>
 
 ### 💡 Currently
 
