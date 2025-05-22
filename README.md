@@ -76,12 +76,12 @@
   <li>🎙 <em>Rodarius Marcel Green</em></li>
   <li>🎧 <em>Nuni</em></li>
   </ul>
-  <p align="center">
-    <img src="https://i.scdn.co/image/ab67616d0000b273734fa6fd45ecab0ad267f6b5" width="100" />
-    <img src="https://i.scdn.co/image/ab67616d0000b27313f6eab452618f7a5e963f9e" width="100" />
-    <img src="https://i.scdn.co/image/ab67616d0000b27331e0b80cecfb3df2b0b4dfd9" width="100" />
-    <img src="https://i.ytimg.com/vi/jfKfPfyJRdk/maxresdefault.jpg" width="100" />
-  </p>
+   <p align="center">
+    <img src="https://i0.wp.com/www.stlamerican.com/wp-content/uploads/2024/11/IH8A7738-scaled.jpg?fit=1200%2C800&ssl=1" width="100" />
+    <img src="https://media.pitchfork.com/photos/5dc5edf6ddb62f0008c2dd17/1:1/w_450%2Cc_limit/ghettogospel.jpg" width="100" />
+    <img src="https://www.thehypemagazine.com/wp-content/uploads/2021/08/unnamed-6-scaled-e1630440028964.jpg" width="100" />
+    <img src="https://cdn-images.dzcdn.net/images/cover/0d4ae0aad490a5722e2cdca72f79929c/1900x1900-000000-80-0-0.jpg" width="100" />
+</p>
 </details>
 
 
