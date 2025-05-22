@@ -155,12 +155,11 @@
 - 🎨 I treat code like art, with functionality as the frame.
 - 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
 </p>
 
 
