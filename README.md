@@ -69,12 +69,12 @@
 </p>
 
 <details>
-  <summary>🎵 Not playing anything? Here's my top artists & albums:</summary>
+  <summary>🎵 Not playing anything? Here's my top artists:</summary>
   <ul>
-    <li>🎧 <strong>Brent Faiyaz</strong> – <em>Wasteland</em></li>
-    <li>🎙 <strong>J. Cole</strong> – <em>2014 Forest Hills Drive</em></li>
-    <li>💫 <strong>SZA</strong> – <em>SOS</em></li>
-    <li>🌌 <strong>Lo-fi Chill Mix</strong> – <em>beats to code/relax to</em></li>
+    <li>🎤 <strong>Rod Wave</strong></li>
+   <li>🥷🏾 <em>Rodarius Green</em></li>
+  <li>🎙 <em>Rodarius Marcel Green</em></li>
+  <li>🎧 <em>Nuni</em></li>
   </ul>
   <p align="center">
     <img src="https://i.scdn.co/image/ab67616d0000b273734fa6fd45ecab0ad267f6b5" width="100" />
