@@ -69,14 +69,21 @@
 </p>
 
 <details>
-  <summary>🎵 Not playing music right now? Here's what I vibe to most:</summary>
+  <summary>🎵 Not playing anything? Here's my top artists & albums:</summary>
   <ul>
-    <li>🎧 <strong>Brent Faiyaz</strong> — smooth R&B flows</li>
-    <li>🎙 <strong>J. Cole</strong> — lyrical storytelling</li>
-    <li>💫 <strong>SZA</strong> — soul meets spacey vibes</li>
-    <li>🌌 <strong>Lo-fi Chill Mix</strong> — perfect for late-night debugging</li>
+    <li>🎧 <strong>Brent Faiyaz</strong> – <em>Wasteland</em></li>
+    <li>🎙 <strong>J. Cole</strong> – <em>2014 Forest Hills Drive</em></li>
+    <li>💫 <strong>SZA</strong> – <em>SOS</em></li>
+    <li>🌌 <strong>Lo-fi Chill Mix</strong> – <em>beats to code/relax to</em></li>
   </ul>
+  <p align="center">
+    <img src="https://i.scdn.co/image/ab67616d0000b273734fa6fd45ecab0ad267f6b5" width="100" />
+    <img src="https://i.scdn.co/image/ab67616d0000b27313f6eab452618f7a5e963f9e" width="100" />
+    <img src="https://i.scdn.co/image/ab67616d0000b27331e0b80cecfb3df2b0b4dfd9" width="100" />
+    <img src="https://i.ytimg.com/vi/jfKfPfyJRdk/maxresdefault.jpg" width="100" />
+  </p>
 </details>
+
 
 ### 💡 Currently
 
