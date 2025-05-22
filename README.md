@@ -11,10 +11,10 @@
 <h2 align="center">🧬 About Me</h2>
 
 <p align="center">
-  🧠 <b>Full-stack engineer in the making</b> | Passionate about intuitive UX, efficient APIs, and creative automation.
+  🧠 I build software that feels intuitive and solves real problems. Passionate about backend logic, automation, and clean interfaces.
 </p>
 <p align="center">
-  🌍 From real-time systems to sleek front-ends, I build software that **matters**.
+  🌍 From scripting tools to robust web apps, I aim to deliver code that’s elegant and impactful.
 </p>
 
 ---
@@ -23,8 +23,8 @@
 
 <h4 align="center">💬 Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" height="60" /><br/>
-  Python · C++ · JavaScript · TypeScript
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,js,ts&theme=dark" height="60" /><br/>
+  Python · C · C++ · Java · Bash · JavaScript · TypeScript
 </p>
 
 <h4 align="center">⚙️ Frameworks & Tools</h4>
@@ -116,7 +116,7 @@
 - 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lydDhweXJicmVwN2x2aWptdHEwa2xmcXZybGtlc2ZtcjBkZ3ZrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFuMTZyZGxkOWlxdzI5bzM4OXlxa3lyZ3NmcXV2d25uMGRmeXJndCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="350" />
 </p>
 
 <p align="center"><i>Appreciate you stopping by — let’s turn code into impact. 🚀</i></p>
