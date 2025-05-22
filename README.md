@@ -156,7 +156,9 @@
 - 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNkYmV5dXYzMGJvNmN3ZDVuaXB5Z25jZm9sd3R3a3h5dnVpbHBubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
+
+
 
 <p align="center"><i>Appreciate you stopping by — let’s turn code into impact. 🚀</i></p>
