@@ -21,12 +21,9 @@
 
 <h2 align="center">🛠 Tech Stack I Love Using</h2>
 
-<table align="center">
-<tr>
-<td><img src="https://skillicons.dev/icons?i=python,cpp,js,ts" height="30"/></td>
-<td><img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,linux" height="30"/></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,postgres,git,linux&theme=dark" height="50"/>
+</p>
 
 ---
 
@@ -50,14 +47,17 @@
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tutu-mtetwa">
-    <img src="https://img.shields.io/badge/-Let's+Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tutumtetwa.dev">
+    <img src="https://img.shields.io/badge/-Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:tututmetwa@gmail.com">
-    <img src="https://img.shields.io/badge/-Say+Hi!-brightgreen?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -97,7 +97,7 @@
 
 - 🌱 Mastering scalable architectures & cloud-native apps
 - 🧪 Building tools with OpenAI + LangChain
-- 💼 Prepping for **Summer 2025 SWE** roles
+- 💼 Prepping for **Summer 2026 SWE** roles
 
 ---
 
@@ -108,7 +108,7 @@
 - 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xxNm0xa2oyOTFpYzRlaTN4MXZ0MXRrYnNkZjR6ZzlvMGEyMTBpdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XIqCQx02E1U9W/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/JtBZm5gJWYKmRGnZIO/giphy.gif" width="350" />
 </p>
 
 <p align="center"><i>Appreciate you stopping by — let’s turn code into impact. 🚀</i></p>
