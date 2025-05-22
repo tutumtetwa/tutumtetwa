@@ -21,8 +21,16 @@
 
 <h2 align="center">🛠 Tech Stack I Love Using</h2>
 
+<h4 align="center">💬 Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,postgres,git,linux&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark" height="60" /><br/>
+  Python · C++ · JavaScript · TypeScript
+</p>
+
+<h4 align="center">⚙️ Frameworks & Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,linux&theme=dark" height="60" /><br/>
+  React · Node.js · PostgreSQL · Git · Linux
 </p>
 
 ---
@@ -97,7 +105,7 @@
 
 - 🌱 Mastering scalable architectures & cloud-native apps
 - 🧪 Building tools with OpenAI + LangChain
-- 💼 Prepping for **Summer 2026 SWE** roles
+- 💼 Prepping for **Summer 2025 SWE** roles
 
 ---
 
@@ -108,7 +116,7 @@
 - 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JtBZm5gJWYKmRGnZIO/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lydDhweXJicmVwN2x2aWptdHEwa2xmcXZybGtlc2ZtcjBkZ3ZrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="350" />
 </p>
 
 <p align="center"><i>Appreciate you stopping by — let’s turn code into impact. 🚀</i></p>
