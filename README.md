@@ -153,7 +153,7 @@
 
 - 🔭 I turn late-night ideas into polished products.
 - 🎨 I treat code like art, with functionality as the frame.
-- 📖 Daily Motto: _"Before you get one win, you gotta take a thousand losses." — Rod Wave_
+- 📖 Daily Motto: _"Before you get one win, you gotta take a thousand losses." - Rod Wave_
 
 
 
