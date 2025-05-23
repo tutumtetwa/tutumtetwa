@@ -153,7 +153,7 @@
 
 - 🔭 I turn late-night ideas into polished products.
 - 🎨 I treat code like art, with functionality as the frame.
-- 📖 My motto: _"Make it clean. Make it yours. Make it useful."_
+- 📖 Daily Motto: _"Before you get one win, you gotta take a thousand losses." — Rod Wave_
 
 
 
@@ -164,4 +164,4 @@
 
 
 
-<p align="center"><i>Appreciate you stopping by — let’s turn code into impact. 🚀</i></p>
+<p align="center"><i>Appreciate you stopping by, let’s turn code into impact. 🚀</i></p>
