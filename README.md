@@ -89,9 +89,9 @@
 
 <h2 align="center">🚀 Projects I'm Proud Of</h2>
 
-- 🧠 [SmartNotes](https://github.com/tutumtetwa/SmartNotes) — AI-assisted markdown note-taking tool powered by Flask & NLP.
-- 🌐 [DevConnect](https://github.com/tutumtetwa/DevConnect) — MERN-stack social hub for devs to collab & share.
-- 🔍 [AlgoVisualizer](https://github.com/tutumtetwa/AlgoVisualizer) — Animated algorithm visualizations coded in C++ & JavaScript.
+- 🧠 [SmartNotes](https://github.com/tutumtetwa/smartnotes) — AI-assisted markdown note-taking tool powered by Flask & NLP.
+- 🌐 [DevConnect](https://github.com/tutumtetwa/devconnect) — MERN-stack social hub for devs to collab & share.
+- 🔍 [AlgoVisualizer](https://github.com/tutumtetwa/algovis) — Animated algorithm visualizations coded in C++ & JavaScript.
 
 ---
 
