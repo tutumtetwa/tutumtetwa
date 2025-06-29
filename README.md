@@ -89,7 +89,7 @@
 
 <h2 align="center">🚀 Projects I'm Proud Of</h2>
 
-- 🧠 <a href="https://notegrid.tech/" target="_blank" rel="noopener noreferrer">NoteGrid</a> — AI-assisted markdown note-taking tool powered by Flask & NLP.
+- 🧠 [NoteGrid](https://notegrid.tech/) — AI-assisted markdown note-taking tool powered by Flask & NLP
 - 🌐 [DevConnect](https://github.com/tutumtetwa/devconnect-client) — MERN-stack social hub for devs to collab & share.
 - 🔍 [AlgoVisualizer](https://github.com/tutumtetwa/algovis) — Animated algorithm visualizations coded in C++ & JavaScript.
 
