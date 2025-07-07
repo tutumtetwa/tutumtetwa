@@ -91,7 +91,7 @@
 
 - 🧠 [NoteGrid](https://notegrid.tech/) — AI-assisted markdown note-taking tool powered by Flask & NLP
 - 🌐 [DevConnect](https://github.com/tutumtetwa/devconnect-client) — MERN-stack social hub for devs to collab & share.
-- 🔍 [AlgoVisualizer](https://github.com/tutumtetwa/algovis) — Animated algorithm visualizations coded in C++ & JavaScript.
+- 🔍 [AlgoVisualizer]((https://algovis-iota.vercel.app/)) — Animated algorithm visualizations coded in C++ & JavaScript.
 
 ---
 
