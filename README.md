@@ -87,11 +87,11 @@
 
 ---
 
-<h2 align="center">🚀 Projects I'm Proud Of</h2>
+<h2 align="center">🚀 Projects I've recently worked on</h2>
 
 - 🧠 [NoteGrid](https://notegrid.tech/) — AI-assisted markdown note-taking tool powered by Flask & NLP
 - 🌐 [DevConnect](https://github.com/tutumtetwa/devconnect-client) — MERN-stack social hub for devs to collab & share.
-- 🔍 [AlgoVisualizer]((https://algovis-iota.vercel.app/)) — Animated algorithm visualizations coded in JavaScript.
+- 🔍 [AlgoVisualizer] (https://algovis-iota.vercel.app/) — Animated algorithm visualizations coded in JavaScript.
 
 ---
 
