@@ -90,7 +90,7 @@
 <h2 align="center">🚀 Projects I've recently worked on</h2>
 
 - 🧠 [NoteGrid](https://notegrid.tech/) — AI-assisted markdown note-taking tool powered by Flask & NLP
-- 🌐 [DevConnect](https://github.com/tutumtetwa/devconnect-client) — MERN-stack social hub for devs to collab & share.
+- 🌐 [CodePulse]([https://github.com/tutumtetwa/devconnect-client](https://devconnect-forum.web.app/)) — An AI-powered developer forum for real-time code analysis and debugging support.
 - 🔍 [AlgoVisualizer](https://algovis-iota.vercel.app/) — Animated algorithm visualizations coded in JavaScript.
 
 ---
