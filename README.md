@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-
   <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=flat-square&color=00ffcc&label=👀+Profile+Views" alt="Profile views"/>
-
 </p>
 
 <h2 align="center">🧬 About Me</h2>
