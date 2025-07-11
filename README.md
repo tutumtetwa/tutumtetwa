@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/12k-00ffcc.svg?style=flat-square&label=👀%20Profile%20Views" alt="Profile views"/>
+
+  <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=flat-square&color=00ffcc&label=👀+Profile+Views" alt="Profile views"/>
+
 </p>
 
 <h2 align="center">🧬 About Me</h2>
