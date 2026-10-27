@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tutu-mtetwa"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFAA"/></a>
   <a href="https://tutumtetwa.com"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=vercel&logoColor=00FFAA"/></a>
-  <a href="mailto:tututmetwa@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFAA"/></a>
+  <a href="mailto:tutumtetwa@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFAA"/></a>
   <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS"/>
 </p>
 
