@@ -1,105 +1,213 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFAA&height=180&section=header&text=Tutu%20Mtetwa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFAA&height=200&section=header&text=Tutu%20Mtetwa&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Backend%20%C2%B7%20AI&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="Tutu Mtetwa, Software Engineer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tutu+%F0%9F%91%8B;Ex-SWE+Intern+%40+LinkedIn;CS+%40+Truman+State+%E2%80%94+graduating+Dec+2026;I+build+code+that+works+and+wows."/>
+  <a href="https://tutumtetwa.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=900&color=00FFAA&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Tutu+%F0%9F%91%8B;Ex-SWE+Intern+%40+LinkedIn;CS+%40+Truman+State+%E2%80%94+graduating+Dec+2026;Open+to+New+Grad+SWE+roles+%F0%9F%9A%80;I+build+code+that+works+and+wows." alt="Typing intro"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tutu-mtetwa"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFAA"/></a>
-  <a href="https://tutumtetwa.com"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=vercel&logoColor=00FFAA"/></a>
-  <a href="mailto:tutumtetwa@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFAA"/></a>
-  <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS"/>
+  <a href="https://tutumtetwa.com"><img src="https://img.shields.io/badge/Portfolio-tutumtetwa.com-00FFAA?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=0d1117"/></a>
+  <a href="https://www.linkedin.com/in/tutu-mtetwa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B&labelColor=0d1117"/></a>
+  <a href="mailto:tutumtetwa@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://github.com/tutumtetwa/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=flat-square&color=00FFAA&label=profile+views" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/tutumtetwa?style=flat-square&color=00FFAA&labelColor=0d1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/status-open%20to%20work-00FFAA?style=flat-square&labelColor=0d1117" alt="Open to work"/>
 </p>
 
 ---
 
-### 🧬 About Me
+## 🧬 About Me
 
 ```yaml
-name:      Tutu Mtetwa
-school:    Truman State University — B.S. Computer Science (Dec 2026)
-last_role: Software Engineer Intern @ LinkedIn (Summer 2026)
-           → OAuth-based Jira integration + encrypted token store
-community: ColorStack · NSBE · 2x Google G-SWEP mentee
-focus:     backend systems, automation, clean interfaces
-looking:   New Grad SWE roles 🚀
+name:       Tutu Mtetwa
+school:     Truman State University, B.S. Computer Science (Dec 2026)
+last_role:  Software Engineer Intern @ LinkedIn (Summer 2026)
+            -> Shipped an OAuth-based Jira integration with an encrypted token store
+community:  ColorStack · NSBE · 2x Google G-SWEP mentee
+focus:      backend systems, full-stack products, applied AI, automation
+shipped:    12+ projects live: web, iOS and ML
+looking_for: New Grad Software Engineer roles (2027 start)
 ```
 
-I build software that feels intuitive and solves real problems, from scripting tools to full-stack web apps.
+I build software that feels intuitive and solves real problems, from scripting tools and ML models to full-stack apps people actually use.
 
 ---
 
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,bash&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,tailwind,git,linux,vercel&theme=dark" />
-</p>
-
----
-
-### 🚀 Featured Projects
+## 🛠 Tech Stack
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 <a href="https://notegrid.tech/">NoteGrid</a></h4>
-      AI-assisted markdown note-taking tool powered by Flask &amp; NLP.<br/><br/>
-      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00FFAA"/>
-      <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=python&logoColor=00FFAA"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 <a href="https://backtest-eight.vercel.app">Backtest</a></h4>
-      Trading strategy backtester with market replay, built on FastAPI and React.<br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00FFAA"/>
-      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FFAA"/>
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FFAA"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗓 <a href="https://officehourscs370.online">Office Hours Platform</a></h4>
-      Full-stack booking app for scheduling office hours between students and instructors.<br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00FFAA"/>
-      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FFAA"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00FFAA"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://devconnect-forum.web.app/">CodePulse</a></h4>
-      AI-powered developer forum for real-time code analysis and debugging support.<br/><br/>
-      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FFAA"/>
-      <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=00FFAA"/>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h4>🔍 <a href="https://algovis-iota.vercel.app/">AlgoVisualizer</a></h4>
-      Animated algorithm visualizations coded in JavaScript.
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Backtest</h3>
+      Trading strategy backtester with candle-by-candle market replay, strategy builder and performance analytics.<br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/><br/>
+      <a href="https://backtest-eight.vercel.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/backtest">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗓 Office Hours Platform</h3>
+      Full-stack booking app with student, instructor and admin roles, waitlists with automatic notifications, and JWT auth.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/><br/>
+      <a href="https://github.com/tutumtetwa/office-hours-platform">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 NoteGrid</h3>
+      AI note-taking app with automatic summaries and semantic search, using Hugging Face Transformers embeddings.<br/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/><br/><br/>
+      <a href="https://notegrid.live">🔗 Live</a> · <a href="https://github.com/tutumtetwa/notegridd">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 ZiPack</h3>
+      Native iOS nutrition and meal-planning assistant. Gemini generates recipes and meal plans from your profile and expiring pantry items.<br/><br/>
+      <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/><br/><br/>
+      <a href="https://zipack-42721.web.app">🔗 Web</a> · <a href="https://github.com/tutumtetwa/ZiPackIOS">💻 iOS Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 CodePulse</h3>
+      Real-time developer forum with live Firestore sync across clients and fine-grained auth and access control.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><br/><br/>
+      <a href="https://devconnect-forum.web.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/devconnect-client">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 AlgoVis</h3>
+      Interactive algorithm visualizer with step-by-step animations, backed by a custom Flask data-generation pipeline.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/><br/>
+      <a href="https://algovis-iota.vercel.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/algovis">💻 Code</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 More projects</b> (click to expand)</summary>
+  <br/>
+
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| 🍞 **BreadBook** | Trading journal with a real-time P&amp;L dashboard, goal tracking and trade screenshots | React · Tailwind · Recharts · Firebase | [Live](https://bankroll-7dd6f.web.app) |
+| 📋 **Planna** | Real-time collaborative Kanban board with a custom drag-and-drop system | React · Node · Express · Firebase | [Live](https://planna-b1e3a.web.app) |
+| 💹 **Crashers** | Real-time crypto tracker with watchlists, search and a news feed | React · Crypto APIs | [Live](https://crashers.netlify.app) · [Code](https://github.com/tutumtetwa/Crashers) |
+| ⚽ **Soccer Score Predictor** | ML model that forecasts match results with **62.5% accuracy** | Python · ML | [Colab](https://colab.research.google.com/drive/1gpITank7HbGSBKx-zZ6ZzptD1ERXSS2v?usp=sharing) |
+| 💱 **FX Sprinter** | KNN forecaster for EUR/USD, plus a write-up on overfitting in volatile markets | Python · KNN | [Colab](https://colab.research.google.com/drive/1GaOuUOL3zOjEu65GGWN9og5njT5znURe?usp=sharing) |
+| 🗂 **Manager App** | C++ desktop app for managing database records with full CRUD | C++ | [Code](https://github.com/tutumtetwa/Manager-App) |
+
+</details>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tutumtetwa&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tutumtetwa&theme=github_dark" height="170"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tutumtetwa&background=0d1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&hide_border=true" />
+  <a href="https://tutumtetwa.com"><img src="https://img.shields.io/badge/See%20everything%20on%20my%20portfolio-00FFAA?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>
 </p>
 
 ---
 
-### 🎧 Now Playing
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutumtetwa&theme=github_dark" width="95%" alt="Contribution summary"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tutumtetwa&theme=github_dark" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tutumtetwa&theme=github_dark" height="165" alt="Top languages by commit"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tutumtetwa&background=0d1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&hide_border=true" alt="Contribution streak"/>
+</p>
+
+---
+
+## 🎧 Now Playing
 
 <p align="center">
   <a href="https://open.spotify.com/user/31jeqlykehbwyrhxy32ppjonk2ba">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00FFAA&bar_color_cover=true" width="80%"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00FFAA&bar_color_cover=true" width="80%" alt="Spotify now playing"/>
   </a>
 </p>
 
@@ -108,30 +216,32 @@ I build software that feels intuitive and solves real problems, from scripting t
   <br/>
   <table align="center">
     <tr>
-      <td align="center"><img src="https://i0.wp.com/www.stlamerican.com/wp-content/uploads/2024/11/IH8A7738-scaled.jpg?fit=1200%2C800&ssl=1" width="200"/><br/>🎤 <b>Rod Wave</b></td>
-      <td align="center"><img src="https://media.pitchfork.com/photos/5dc5edf6ddb62f0008c2dd17/1:1/w_450%2Cc_limit/ghettogospel.jpg" width="200"/><br/>🥷🏾 <i>Rodarius Green</i></td>
+      <td align="center"><img src="https://i0.wp.com/www.stlamerican.com/wp-content/uploads/2024/11/IH8A7738-scaled.jpg?fit=1200%2C800&ssl=1" width="200" alt="Rod Wave"/><br/>🎤 <b>Rod Wave</b></td>
+      <td align="center"><img src="https://media.pitchfork.com/photos/5dc5edf6ddb62f0008c2dd17/1:1/w_450%2Cc_limit/ghettogospel.jpg" width="200" alt="Ghetto Gospel cover"/><br/>🥷🏾 <i>Rodarius Green</i></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://www.thehypemagazine.com/wp-content/uploads/2021/08/unnamed-6-scaled-e1630440028964.jpg" width="200"/><br/>🎙 <i>Rodarius Marcel Green</i></td>
-      <td align="center"><img src="https://cdn-images.dzcdn.net/images/cover/0d4ae0aad490a5722e2cdca72f79929c/1900x1900-000000-80-0-0.jpg" width="200"/><br/>🎧 <i>Nuni</i></td>
+      <td align="center"><img src="https://www.thehypemagazine.com/wp-content/uploads/2021/08/unnamed-6-scaled-e1630440028964.jpg" width="200" alt="Rod Wave performing"/><br/>🎙 <i>Rodarius Marcel Green</i></td>
+      <td align="center"><img src="https://cdn-images.dzcdn.net/images/cover/0d4ae0aad490a5722e2cdca72f79929c/1900x1900-000000-80-0-0.jpg" width="200" alt="Nuni cover"/><br/>🎧 <i>Nuni</i></td>
     </tr>
   </table>
 </details>
 
 ---
 
-### 🧃 A Few More Things
+## 🧃 A Few More Things
 
 - 🔭 I turn late-night ideas into polished products.
 - 🎨 I treat code like art, with functionality as the frame.
-- 🌱 Currently diving into scalable architectures, cloud-native apps, and LLM tooling.
+- 🌱 Currently diving into scalable architectures, cloud-native apps and LLM tooling.
+- 🤝 Open to collaborating on developer tools, fintech and AI products.
+- 📫 Fastest way to reach me: **[tutumtetwa@gmail.com](mailto:tutumtetwa@gmail.com)**
 
-> _"Before you get one win, you gotta take a thousand losses."_ — Rod Wave
+> _"Before you get one win, you gotta take a thousand losses."_ (Rod Wave)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding gif"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0d1117&height=110&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0d1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" alt="Thanks for stopping by"/>
 </p>
