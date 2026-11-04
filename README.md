@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tutumtetwa.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=900&color=00FFAA&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Tutu+%F0%9F%91%8B;Ex-SWE+Intern+%40+LinkedIn;CS+%40+Truman+State+%E2%80%94+graduating+Dec+2026;Open+to+New+Grad+SWE+roles+%F0%9F%9A%80;I+build+code+that+works+and+wows." alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=900&color=00FFAA&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Tutu+%F0%9F%91%8B;CS+%40+Truman+State+%E2%80%94+graduating+Dec+2026;I+build+code+that+works+and+wows." alt="Typing intro"/>
   </a>
 </p>
 
@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tutumtetwa&style=flat-square&color=00FFAA&label=profile+views" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/tutumtetwa?style=flat-square&color=00FFAA&labelColor=0d1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/status-open%20to%20work-00FFAA?style=flat-square&labelColor=0d1117" alt="Open to work"/>
 </p>
 
 ---
@@ -28,12 +27,9 @@
 ```yaml
 name:       Tutu Mtetwa
 school:     Truman State University, B.S. Computer Science (Dec 2026)
-last_role:  Software Engineer Intern @ LinkedIn (Summer 2026)
-            -> Shipped an OAuth-based Jira integration with an encrypted token store
 community:  ColorStack · NSBE · 2x Google G-SWEP mentee
 focus:      backend systems, full-stack products, applied AI, automation
 shipped:    12+ projects live: web, iOS and ML
-looking_for: New Grad Software Engineer roles (2027 start)
 ```
 
 I build software that feels intuitive and solves real problems, from scripting tools and ML models to full-stack apps people actually use.
