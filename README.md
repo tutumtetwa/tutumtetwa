@@ -86,8 +86,8 @@ I build software that feels intuitive and solves real problems, from scripting t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutumtetwa&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutumtetwa&layout=compact&bg_color=0d1117&title_color=00FFAA&text_color=c9d1d9&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tutumtetwa&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tutumtetwa&theme=github_dark" height="170"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tutumtetwa&background=0d1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&hide_border=true" />
