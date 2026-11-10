@@ -122,7 +122,7 @@ I build software that feels intuitive and solves real problems, from scripting t
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/><br/>
-      <a href="https://github.com/tutumtetwa/office-hours-platform">💻 Code</a>
+      <a href="https://officehours-web.vercel.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/office-hours-platform">💻 Code</a>
     </td>
   </tr>
   <tr>
