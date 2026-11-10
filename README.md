@@ -109,12 +109,12 @@ I build software that feels intuitive and solves real problems, from scripting t
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Backtest</h3>
-      Trading strategy backtester with candle-by-candle market replay, strategy builder and performance analytics.<br/><br/>
+      <h3>📈 AlphaTest</h3>
+      Trading-strategy backtester on real market data: SMA/EMA, RSI, MACD, Bollinger and ICT strategies, Sharpe/drawdown analytics and candle-by-candle replay. One-click demo login.<br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/><br/>
-      <a href="https://backtest-eight.vercel.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/backtest">💻 Code</a>
+      <a href="https://alphatest-olive.vercel.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/backtest">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🗓 Office Hours Platform</h3>
@@ -128,11 +128,11 @@ I build software that feels intuitive and solves real problems, from scripting t
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 NoteGrid</h3>
-      AI note-taking app with automatic summaries and semantic search, using Hugging Face Transformers embeddings.<br/><br/>
+      AI study-notes app: upload a PDF/DOCX or paste text and get a DistilBART summary, sentiment analysis, text-to-speech audio and PDF/TXT export.<br/><br/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/><br/><br/>
-      <a href="https://notegrid.live">🔗 Live</a> · <a href="https://github.com/tutumtetwa/notegridd">💻 Code</a>
+      <a href="https://notegrid.live">🔗 Live</a> · <a href="https://github.com/tutumtetwa/notegrid">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🥗 ZiPack</h3>
@@ -154,11 +154,28 @@ I build software that feels intuitive and solves real problems, from scripting t
     </td>
     <td width="50%" valign="top">
       <h3>🔍 AlgoVis</h3>
-      Interactive algorithm visualizer with step-by-step animations, backed by a custom Flask data-generation pipeline.<br/><br/>
+      Step through 15 interview patterns and 60+ problems (sliding window, heaps, tries, BFS, backtracking, DP) with animated data structures and line-by-line code highlighting.<br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/><br/><br/>
       <a href="https://algovis-iota.vercel.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/algovis">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡 VERDICT</h3>
+      Phishing and SMS-scam detector: a TF-IDF + Naive Bayes classifier combined with link expansion, geo-lookup, homoglyph and burner-number forensics. SSRF- and XSS-hardened.<br/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/><br/><br/>
+      <a href="https://verdict-scanner-chi.vercel.app">🔗 Live</a> · <a href="https://github.com/tutumtetwa/VERDICT">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 Chicago Repair Directory</h3>
+      Team data project: a sourced directory of licensed independent repair shops on Chicago's North Side, built from City of Chicago license data.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/><br/><br/>
+      <a href="https://github.com/tutumtetwa/430-project-1">💻 Code</a>
     </td>
   </tr>
 </table>
