@@ -92,7 +92,6 @@ I build software that feels intuitive and solves real problems, from scripting t
     <td><b>Cloud &amp; Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -204,6 +203,14 @@ I build software that feels intuitive and solves real problems, from scripting t
 ## 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutumtetwa&theme=github_dark" width="95%" alt="Contribution summary"/>
 </p>
 <p align="center">
@@ -220,7 +227,7 @@ I build software that feels intuitive and solves real problems, from scripting t
 
 <p align="center">
   <a href="https://open.spotify.com/user/31jeqlykehbwyrhxy32ppjonk2ba">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00FFAA&bar_color_cover=true" width="80%" alt="Spotify now playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jeqlykehbwyrhxy32ppjonk2ba&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00FFAA&bar_color_cover=true" width="420" alt="Spotify now playing"/>
   </a>
 </p>
 
@@ -252,7 +259,11 @@ I build software that feels intuitive and solves real problems, from scripting t
 > _"Before you get one win, you gotta take a thousand losses."_ (Rod Wave)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding gif"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tutumtetwa/tutumtetwa/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tutumtetwa/tutumtetwa/output/snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/tutumtetwa/tutumtetwa/output/snake-dark.svg" width="100%" alt="Snake eating my contribution graph"/>
+  </picture>
 </p>
 
 <p align="center">
