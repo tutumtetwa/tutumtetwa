@@ -186,6 +186,7 @@ I build software that feels intuitive and solves real problems, from scripting t
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
+| 📚 **Synapse** | Study planner built for students who work | Next.js · Expo · Supabase | [Live](https://synapse-study-alpha.vercel.app) |
 | 🍞 **BreadBook** | Trading journal with a real-time P&amp;L dashboard, goal tracking and trade screenshots | React · Tailwind · Recharts · Firebase | [Live](https://bankroll-7dd6f.web.app) |
 | 📋 **Planna** | Real-time collaborative Kanban board with a custom drag-and-drop system | React · Node · Express · Firebase | [Live](https://planna-b1e3a.web.app) |
 | 💹 **Crashers** | Real-time crypto tracker with watchlists, search and a news feed | React · Crypto APIs | [Live](https://crashers.netlify.app) · [Code](https://github.com/tutumtetwa/Crashers) |
