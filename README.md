@@ -12,6 +12,7 @@
   <a href="https://tutumtetwa.com"><img src="https://img.shields.io/badge/Portfolio-tutumtetwa.com-00FFAA?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=0d1117"/></a>
   <a href="https://www.linkedin.com/in/tutu-mtetwa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B&labelColor=0d1117"/></a>
   <a href="mailto:tutumtetwa@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://leetcode.com/u/Tutu_M/"><img src="https://img.shields.io/badge/LeetCode-328%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/></a>
   <a href="https://github.com/tutumtetwa/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
@@ -219,6 +220,11 @@ I build software that feels intuitive and solves real problems, from scripting t
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tutumtetwa&background=0d1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&hide_border=true" alt="Contribution streak"/>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/Tutu_M/">
+    <img src="https://leetcard.jacoblin.cool/Tutu_M?theme=dark&font=Space%20Mono&ext=heatmap&border=0&radius=10" width="500" alt="LeetCode stats: 328 problems solved"/>
+  </a>
 </p>
 
 ---
